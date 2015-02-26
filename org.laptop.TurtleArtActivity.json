@@ -52,6 +52,15 @@
             "screenshots": {}, 
             "version": 209, 
             "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
+            }, 
+            "xo_url": "org.laptop.TurtleArtActivity_v209.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {}, 
+            "version": 209, 
+            "whats_new": {
                 "en-US": "<br/>ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
             }, 
             "xo_url": "org.laptop.TurtleArtActivity_v209.xo"
@@ -89,9 +98,9 @@
     "whats_new": {
         "en-US": "ENHANCEMENT:<br/>* Add export SVG and Icon to GNOME menu (Alan Aguiar)<br/>* New example project: pinwheel<br/>* Save and restore private block data<br/>BUG FIXES:<br/>* Fine-tune some block label positioning<br/>* Use unique name (by user) for tmp files for multiuser systems (#4788)<br/>* Fix regression in saving to SVG<br/>* Fix regression in paste from GNOME<br/>* Fixed problem with camera crash (SL#2624)"
     }, 
-    "xo_size": 5959867, 
+    "xo_size": 5968049, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_v209.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_1424156772.xo", 
-    "xo_url_latest_timestamp": 1424156772, 
-    "xo_url_timestamp": 1424156772
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.TurtleArtActivity_1424981959.xo", 
+    "xo_url_latest_timestamp": 1424981959, 
+    "xo_url_timestamp": 1424981959
 }
