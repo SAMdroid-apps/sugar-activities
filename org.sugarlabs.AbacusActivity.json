@@ -40,6 +40,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/4e6GXuM.png"
+                ]
+            }, 
+            "version": 56, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
+            }, 
+            "xo_url": "org.sugarlabs.AbacusActivity_v56.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/ocE5iTg.png"
                 ]
             }, 
@@ -65,12 +78,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/ocE5iTg.png"
+            "http://i.imgur.com/4e6GXuM.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "732d44322a866bce52b0bae933e6c162": "http://i.imgur.com/ocE5iTg.png"
+            "732d44322a866bce52b0bae933e6c162": "http://i.imgur.com/4e6GXuM.png"
         }
     }, 
     "title": {
@@ -125,9 +138,9 @@
     "whats_new": {
         "en-US": "ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
     }, 
-    "xo_size": 327487, 
+    "xo_size": 329173, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_v56.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1424156645.xo", 
-    "xo_url_latest_timestamp": 1424156645, 
-    "xo_url_timestamp": 1424156645
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1425979368.xo", 
+    "xo_url_latest_timestamp": 1425979368, 
+    "xo_url_timestamp": 1425979368
 }
