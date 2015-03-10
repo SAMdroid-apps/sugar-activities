@@ -31,6 +31,19 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/uV6Vndm.png"
+                ]
+            }, 
+            "version": 51, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations"
+            }, 
+            "xo_url": "org.laptop.MeasureActivity_v51.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/6zLyR9s.png"
                 ]
             }, 
@@ -56,12 +69,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/6zLyR9s.png"
+            "http://i.imgur.com/uV6Vndm.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "2418aef0b862209904e13cdf47106dcc": "http://i.imgur.com/6zLyR9s.png"
+            "2418aef0b862209904e13cdf47106dcc": "http://i.imgur.com/uV6Vndm.png"
         }
     }, 
     "title": {
@@ -112,9 +125,9 @@
     "whats_new": {
         "en-US": "ENHANCEMENT:<br/>* New translations"
     }, 
-    "xo_size": 344312, 
+    "xo_size": 346631, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_v51.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_1424156559.xo", 
-    "xo_url_latest_timestamp": 1424156559, 
-    "xo_url_timestamp": 1424156559
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.MeasureActivity_1425979378.xo", 
+    "xo_url_latest_timestamp": 1425979378, 
+    "xo_url_timestamp": 1425979378
 }
