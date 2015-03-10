@@ -39,6 +39,15 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 96, 
+            "whats_new": {
+                "en-US": "* Revert export button"
+            }, 
+            "xo_url": "org.laptop.AbiWordActivity_v96.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
             "screenshots": [], 
             "version": 96, 
             "whats_new": {
@@ -120,11 +129,11 @@
     }, 
     "version": 96, 
     "whats_new": {
-        "en-US": "<br/>* Revert export button"
+        "en-US": "* Revert export button"
     }, 
-    "xo_size": 468232, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.AbiWordActivity_stable_96.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.AbiWordActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1419888833.292336, 
-    "xo_url_timestamp": 1417818270.358615
+    "xo_size": 353384, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.AbiWordActivity_v96.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.AbiWordActivity_1425979347.xo", 
+    "xo_url_latest_timestamp": 1425979347, 
+    "xo_url_timestamp": 1425979347
 }
