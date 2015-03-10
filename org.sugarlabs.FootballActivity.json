@@ -1,0 +1,66 @@
+{
+    "by": [
+        {
+             "name": "Samson Goddy",
+             "site": "https://github.com/samswag"
+        }
+    ],
+    "categories": [
+        "game"
+    ],
+    "description": {
+        "en-US": "This is a game for football lovers. It's suitable for the xo laptop that have gnash player installed, so enjoy."
+    },
+    "github_url": "samswag/Football"
+    "github_current_tag": "v1",
+    "hasOldToolbars": false,
+    "icon": "http://i.ytimg.com/vi/FA99tV4lOns/maxresdefault.jpg"
+    "isGTK3": true,
+    "isWeb": false,
+    "minSugarVersion": "0.96",
+    "releases": [
+        {
+           "minSugarversion": "0.96",
+           "screenshots": {
+               "en": [
+                   "http://i.ytimg.com/vi/FA99tV4lOns/maxresdefault.jpg"
+                ]
+           "version": 1,
+           "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
+        },
+        {
+           "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "i ported the activity to Gtk3"
+        },
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 9, 
+            "whats_new": {
+                "en-US": "i ported the activity to Gtk3"
+            }, 
+            "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
+        }
+    ],
+    "screenshots": {
+        "en": [
+            "http://i.ytimg.com/vi/FA99tV4lOns/maxresdefault.jpg"
+        ]
+    },
+    "title": {
+        "en": "Football"
+        "en-GB": "Football"
+        "en-US": "Football"
+        "es": "fútbol"
+    },
+    "version": 1,
+    "whats_new": {
+        "en-US": "i ported the game to Gtk3"
+    },
+    "xo_url": "http://activities.sugarlabs.org/en-US/sugar/addon/4758"
+}
+        
+        
