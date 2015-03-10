@@ -23,6 +23,17 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/TIK0iC5.png"
+                ]
+            }, 
+            "version": 8.8, 
+            "whats_new": {}, 
+            "xo_url": "org.sugarlabs.MusicKeyboard_v8.8.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/BbvZ72T.png"
                 ]
             }, 
@@ -33,12 +44,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/BbvZ72T.png"
+            "http://i.imgur.com/TIK0iC5.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/BbvZ72T.png"
+            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/TIK0iC5.png"
         }
     }, 
     "socialhelp_category": "music-keyboard", 
@@ -47,9 +58,9 @@
     }, 
     "version": 8.8, 
     "whats_new": {}, 
-    "xo_size": 7060260, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_stable_8.8.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_latest.xo", 
-    "xo_url_latest_timestamp": 1419889316.437797, 
-    "xo_url_timestamp": 1412895375.872177
+    "xo_size": 5349155, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_v8.8.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.MusicKeyboard_1425979335.xo", 
+    "xo_url_latest_timestamp": 1425979335, 
+    "xo_url_timestamp": 1425979335
 }
