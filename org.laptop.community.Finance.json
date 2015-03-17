@@ -23,7 +23,7 @@
         "pt": "Queres gerir sabiamente o teu dinheiro? Aprende as bases do planeamento financeiro e acompanha as finan\u00e7as da tua fam\u00edlia, faz os teus pr\u00f3prios or\u00e7amentos e aprende a aproveitar cada c\u00eantimo.", 
         "zh-CN": "\u8981\u660e\u667a\u5730\u7ba1\u7406\u8d44\u91d1\u5417\uff1f\u4e86\u89e3\u8d22\u52a1\u89c4\u5212\u7684\u57fa\u7840\u77e5\u8bc6\u5e76\u8ddf\u8e2a\u4f60\u5bb6\u4eba\u7684\u8d22\u52a1\uff0c\u5236\u4f5c\u81ea\u5df1\u7684\u9884\u7b97\u5e76\u5b66\u4e60\u5982\u4f55\u8bb0\u5f55\u6bcf\u4e00\u5206\u94b1\uff01"
     }, 
-    "github_current_tag": "v11", 
+    "github_current_tag": "v12", 
     "github_url": "godiard/finance-activity", 
     "hasOldToolbars": false, 
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBB\nZG9iZSBJbGx1c3RyYXRvciAxNC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9u\nOiA2LjAwIEJ1aWxkIDQzMzYzKSAgLS0+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9E\nVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9z\ndmcxMS5kdGQiWw0KICAgICA8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMDAwMDAiPg0KICAgICA8\nIUVOVElUWSBmaWxsX2NvbG9yICIjRkZGRkZGIj4NCiBdPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlk\nPSJGaW5hbmNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5r\nPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9\nIjU1cHgiIGhlaWdodD0iNTVweCIgdmlld0JveD0iMCAwIDU1IDU1IiBlbmFibGUtYmFja2dyb3Vu\nZD0ibmV3IDAgMCA1NSA1NSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBpZD0iUGFwZXIw\nNCIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lk\ndGg9IjMuNSIgZD0iTTUuODMzLDMxLjc1YzAsMCw5Ljk0OCwxMS41LDE1LjY2NywxOA0KCWMxMC4y\nODEtNy43MTksMTkuNzQ4LTE3LjgyOCwxOS43NDgtMTcuODI4Ii8+DQo8cGF0aCBpZD0iUGFwZXIw\nMyIgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lk\ndGg9IjMuNSIgZD0iTTUuMzMzLDE5bDEuOTE3LDUuODc1bDAuOTE2LDguNTQybDIsMC4yNQ0KCWMw\nLDAsMS4wNCwzLjkyMSwyLjU0Miw4LjM3NUMzMC43NSwzNy41NDIsNDAuMzMzLDMyLDQwLjMzMywz\nMiIvPg0KPHBhdGggaWQ9IlBhcGVyMDJfMV8iIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSIm\nc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIGQ9Ik00Ni41NDcsMTcuOTk0TDQ1LjE5\nNSw3Ljc4Mg0KCWMwLDAtMjEuMzI0LDYuMjk5LTM5LjI2Miw0LjM3NWwyLjIzMywyMS4yNmMwLDAs\nMTYuNDk4LDAuMTUyLDMwLjc1Ny0zLjMxOSIvPg0KPHBvbHlsaW5lIGlkPSJQYXBlcjAxIiBmaWxs\nPSJub25lIiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgcG9pbnRz\nPSIzMi44MzMsMTEgMzYuMzA5LDYuNzU2IDM5LjE2Nyw5LjgzMyAiLz4NCjxwYXRoIGlkPSJQcmVz\naWRlbnQiIGZpbGw9IiZzdHJva2VfY29sb3I7IiBzdHJva2U9Im5vbmUiIGQ9Ik0zMC44NzUsMTku\nNjg4YzAsMS4zODQtMC42NjIsMi42MTQtMS42ODgsMy4zOTFjMC45MzgsMS40ODQsMy45MzgsMi40\nMjEsMy45MzgsMi40MjENCglzLTIuMDYzLDIuODEzLTUuOTM4LDMuMTg4Yy0zLjg3NSwwLjM3NS01\nLjkzOC0yLjEyNS01LjkzOC0yLjEyNVMyNCwyNS41LDI0Ljk3MSwyMy42MDRjLTEuNTI1LTAuNjQ2\nLTIuNTk2LTIuMTU2LTIuNTk2LTMuOTE3DQoJYzAtMi4zNDcsMS45MDMtNC4yNSw0LjI1LTQuMjVD\nMjguOTczLDE1LjQzOCwzMC44NzUsMTcuMzQxLDMwLjg3NSwxOS42ODh6Ii8+DQo8Y2lyY2xlIGlk\nPSJDb2luIiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9r\nZS13aWR0aD0iMy41IiBjeD0iNDQuMzU1IiBjeT0iMjUuNSIgcj0iNy41Ii8+DQo8L3N2Zz4NCg==\n", 
@@ -31,6 +31,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 12, 
+            "whats_new": {
+                "en-US": "* Fix Keep error."
+            }, 
+            "xo_url": "org.laptop.community.Finance_v12.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
@@ -86,13 +95,13 @@
         "zh-CN": "\u8d22\u52a1\u7ba1\u7406", 
         "zh-TW": "\u8ca1\u52d9\u7ba1\u7406"
     }, 
-    "version": 11, 
+    "version": 12, 
     "whats_new": {
-        "en-US": "<br/>* Fix Keep error."
+        "en-US": "* Fix Keep error."
     }, 
-    "xo_size": 506396, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.community.Finance_stable_11.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.community.Finance_latest.xo", 
-    "xo_url_latest_timestamp": 1419889337.280694, 
-    "xo_url_timestamp": 1409657993.020322
+    "xo_size": 379925, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.community.Finance_v12.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.Finance_1426573997.xo", 
+    "xo_url_latest_timestamp": 1426573997, 
+    "xo_url_timestamp": 1426573997
 }
