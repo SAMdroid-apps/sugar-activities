@@ -23,6 +23,19 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/yFIqNTb.png"
+                ]
+            }, 
+            "version": 19, 
+            "whats_new": {
+                "en-US": null
+            }, 
+            "xo_url": "org.laptop.HelpActivity_v19.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/1zEccv3.png"
                 ]
             }, 
@@ -35,25 +48,25 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/1zEccv3.png"
+            "http://i.imgur.com/yFIqNTb.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "b663b8f967adc124798de2d9257669ba": "http://i.imgur.com/1zEccv3.png"
+            "b663b8f967adc124798de2d9257669ba": "http://i.imgur.com/yFIqNTb.png"
         }
     }, 
     "socialhelp_category": "help", 
     "title": {
         "en-US": "Help"
     }, 
-    "version": 18, 
+    "version": 19, 
     "whats_new": {
         "en-US": null
     }, 
-    "xo_size": 17847440, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.HelpActivity_stable_18.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.HelpActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1419888811.882852, 
-    "xo_url_timestamp": 1416633390.967562
+    "xo_size": 18415911, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.HelpActivity_v19.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.HelpActivity_1426887736.xo", 
+    "xo_url_latest_timestamp": 1426887736, 
+    "xo_url_timestamp": 1426887736
 }
