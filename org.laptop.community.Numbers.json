@@ -5,6 +5,9 @@
             "site": "https://github.com/walterbender"
         }
     ], 
+    "categories": [
+        "maths"
+    ], 
     "description": {
         "en-US": "\"Addition and multiplication game\""
     }, 
@@ -15,6 +18,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.86", 
     "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/GSwTKhB.png"
+                ]
+            }, 
+            "version": 26.3, 
+            "whats_new": {
+                "en-US": null
+            }, 
+            "xo_url": "org.laptop.community.Numbers_v26.3.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": {}, 
@@ -43,6 +59,16 @@
             "xo_url": "org.laptop.community.Numbers_v26.3.xo"
         }
     ], 
+    "screenshots": {
+        "en": [
+            "http://i.imgur.com/GSwTKhB.png"
+        ]
+    }, 
+    "screenshotsHashes": {
+        "en": {
+            "3b7e418f6691da860fe18c4eb03843c2": "http://i.imgur.com/GSwTKhB.png"
+        }
+    }, 
     "title": {
         "en-US": "Numbers"
     }, 
@@ -50,9 +76,9 @@
     "whats_new": {
         "en-US": null
     }, 
-    "xo_size": 774513, 
+    "xo_size": 857897, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.community.Numbers_v26.3.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.Numbers_1424156392.xo", 
-    "xo_url_latest_timestamp": 1424156392, 
-    "xo_url_timestamp": 1424156392
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.community.Numbers_1426887748.xo", 
+    "xo_url_latest_timestamp": 1426887748, 
+    "xo_url_timestamp": 1426887748
 }
