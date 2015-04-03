@@ -44,6 +44,17 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
+                "en": []
+            }, 
+            "version": 114, 
+            "whats_new": {
+                "en-US": "* Add footnotes and intra-document links support in EPUB"
+            }, 
+            "xo_url": "org.laptop.sugar.ReadActivity_v114.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
                 "en": [
                     "http://i.imgur.com/k6eOP5C.png"
                 ]
@@ -56,14 +67,10 @@
         }
     ], 
     "screenshots": {
-        "en": [
-            "http://i.imgur.com/k6eOP5C.png"
-        ]
+        "en": []
     }, 
     "screenshotsHashes": {
-        "en": {
-            "99bd03f6f3b8460f2162289ee0a64170": "http://i.imgur.com/k6eOP5C.png"
-        }
+        "en": {}
     }, 
     "socialhelp_category": "read", 
     "title": {
@@ -137,11 +144,11 @@
     }, 
     "version": 114, 
     "whats_new": {
-        "en-US": "<br/>* Add footnotes and intra-document links support in EPUB"
+        "en-US": "* Add footnotes and intra-document links support in EPUB"
     }, 
-    "xo_size": 1039040, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_stable_114.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1419888871.028965, 
-    "xo_url_timestamp": 1417818209.483304
+    "xo_size": 779299, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_v114.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_1428059029.xo", 
+    "xo_url_latest_timestamp": 1428059029, 
+    "xo_url_timestamp": 1428059029
 }
