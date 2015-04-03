@@ -9,7 +9,7 @@
         "game"
     ], 
     "description": {
-        "en-US": "This game of sport"
+        "en-US": "This is a game of sport"
     }, 
     "github_url": "samswag/Football", 
     "hasOldToolbars": false, 
@@ -18,6 +18,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.86", 
     "releases": [
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": []
+            }, 
+            "version": 1, 
+            "whats_new": {}, 
+            "xo_url": "org.sugarlabs.Football_v1.xo"
+        }, 
         {
             "minSugarVersion": "0.86", 
             "screenshots": {
@@ -39,9 +48,9 @@
     }, 
     "version": 1, 
     "whats_new": {}, 
-    "xo_size": 809808, 
+    "xo_size": 809812, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.Football_v1.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.Football_1426574005.xo", 
-    "xo_url_latest_timestamp": 1426574005, 
-    "xo_url_timestamp": 1426574005
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.Football_1428059038.xo", 
+    "xo_url_latest_timestamp": 1428059038, 
+    "xo_url_timestamp": 1428059038
 }
