@@ -7,7 +7,6 @@
         "da": "Tekst-chat", 
         "de": "Text-Chat", 
         "el": "\u03a3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b1 \u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5", 
-        "en": "Text chat", 
         "en-GB": "Text chat", 
         "en-US": "Text chat", 
         "es": "Chat de texto", 
@@ -37,6 +36,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/boqc1Mv.png"
+                ]
+            }, 
+            "version": 81, 
+            "whats_new": {
+                "en-US": "BUG FIX:<br/>* Don't try to write smile files to readonly directory"
+            }, 
+            "xo_url": "org.laptop.Chat_v81.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -113,7 +125,6 @@
         "de": "Chat", 
         "dz": "\u0f41\u0f0b\u0f66\u0fb3\u0f56\u0f0d", 
         "el": "\u03a3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b1", 
-        "en": "Chat", 
         "en-GB": "Chat", 
         "en-US": "Chat", 
         "es": "Charlar", 
@@ -181,9 +192,9 @@
     "whats_new": {
         "en-US": "BUG FIX:<br/>* Don't try to write smile files to readonly directory"
     }, 
-    "xo_size": 767567, 
+    "xo_size": 774353, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.Chat_v81.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Chat_1424156373.xo", 
-    "xo_url_latest_timestamp": 1424156373, 
-    "xo_url_timestamp": 1424156373
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Chat_1429229683.xo", 
+    "xo_url_latest_timestamp": 1429229683, 
+    "xo_url_timestamp": 1429229683
 }
