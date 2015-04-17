@@ -17,6 +17,7 @@
         "en-US": "a tool for simple arithmetic calculations", 
         "es": "una herramienta para c\u00e1lculos aritm\u00e9ticos simples", 
         "fr": "un outil pour des calculs arithm\u00e9tiques simples", 
+        "gn": "Tembipuru rekalkula hag\u0303ua", 
         "hy": "\u054a\u0561\u0580\u0566 \u0569\u057e\u0561\u0562\u0561\u0576\u0561\u056f\u0561\u0576 \u0570\u0561\u0577\u057e\u0561\u0580\u056f\u0576\u0565\u0580\u056b \u0563\u0578\u0580\u056e\u056b\u0584", 
         "it": "Uno strumento per semplici calcoli aritmetici", 
         "nah": "Se tekipanoli tlen katli ti ueli ti matis keski tlaixkopinal.", 
@@ -28,7 +29,7 @@
         "pt": "uma ferramenta para c\u00e1lculos aritm\u00e9ticos simples", 
         "zh-CN": "\u7528\u4e8e\u7b80\u5355\u7b97\u672f\u8ba1\u7b97\u7684\u4e00\u4e2a\u5de5\u5177"
     }, 
-    "github_current_tag": "v56", 
+    "github_current_tag": "v57", 
     "github_url": "walterbender/abacus", 
     "hasOldToolbars": false, 
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3Mv\nU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiBbCiAgPCFFTlRJVFkgZmlsbF9jb2xvciAiI0FBQUFBQSI+\nCiAgPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMzMzMzMzIj4KXT4KPHN2ZyB4bWxucz0iaHR0cDov\nL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSI+CiAgPGcgaWQ9Imc0\nMjU3Ij4KICAgIDxyZWN0IHdpZHRoPSIzNi4zMzY1MDYiIGhlaWdodD0iMzYuNzY4NzE1IiB4PSIt\nNDAuNjY4MjU1IiB5PSI0LjExNTY0MjUiIHRyYW5zZm9ybT0ibWF0cml4KDAsIC0xLCAxLCAwLCAw\nLCAwKSIgaWQ9InJlY3Q0IiBzdHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7IHN0cm9rZTogJnN0cm9r\nZV9jb2xvcjs7IHN0cm9rZS13aWR0aDogMy41OyBzdHJva2UtbGluZWpvaW46IHJvdW5kOyBzdHJv\na2UtbWl0ZXJsaW1pdDogMS42OyBzdHJva2UtZGFzaGFycmF5OiBub25lOyIvPgogICAgPGxpbmUg\naWQ9ImxpbmUxMC00IiBzdHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7IHN0cm9rZTogJnN0cm9rZV9j\nb2xvcjs7IHN0cm9rZS13aWR0aDogMi40NDA2ODsgc3Ryb2tlLW1pdGVybGltaXQ6IDEuNjsgc3Ry\nb2tlLWRhc2hhcnJheTogbm9uZTsiIHgyPSI0LjE1MzExNjIiIHgxPSIzOS43Njg2ODgiIHkyPSIx\nNi4zMTY5NTIiIHkxPSIxNi4zMTY5NTIiLz4KICAgIDxnIGlkPSJnNDI0MyI+CiAgICAgIDxsaW5l\nIHkxPSIzOS42ODczODIiIHkyPSI0Ljc2MDAxNjQiIHgxPSIyMi4zMDk4ODEiIHgyPSIyMi4zMDk4\nODEiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOzsgc3Ryb2tlOiAmc3Ryb2tlX2NvbG9yOzsgc3Ry\nb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1taXRlcmxpbWl0OiAxLjY7IHN0cm9rZS1kYXNoYXJyYXk6\nIG5vbmU7IiBpZD0ibGluZTEwIi8+CiAgICAgIDxwYXRoIGQ9Im0gMjYuNzc3OTc3LDIzLjU4MDA0\nNyBhIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgLTguOTM2MTkyLDAgNC40NjgwOTY0LDMuMDcx\nODE2MyAwIDEgMSA4LjkzNjE5MiwwIHoiIGlkPSJwYXRoMzYzMyIgc3R5bGU9ImZpbGw6ICZzdHJv\na2VfY29sb3I7OyBmaWxsLW9wYWNpdHk6IDE7IGZpbGwtcnVsZTogbm9uemVybzsgc3Ryb2tlOiBu\nb25lOyIvPgogICAgICA8cGF0aCBkPSJtIDI2Ljc3Nzk3NywyOS43MjM3OTIgYSA0LjQ2ODA5NjQs\nMy4wNzE4MTYzIDAgMSAxIC04LjkzNjE5MiwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45\nMzYxOTIsMCB6IiBpZD0icGF0aDM2MzMtNyIgc3R5bGU9ImZpbGw6ICZzdHJva2VfY29sb3I7OyBm\naWxsLW9wYWNpdHk6IDE7IGZpbGwtcnVsZTogbm9uemVybzsgc3Ryb2tlOiBub25lOyIvPgogICAg\nICA8cGF0aCBkPSJtIDI2Ljc3Nzk3NywzNS44Njc1MzYgYSA0LjQ2ODA5NjQsMy4wNzE4MTYzIDAg\nMSAxIC04LjkzNjE5MiwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45MzYxOTIsMCB6IiBp\nZD0icGF0aDM2MzMtNSIgc3R5bGU9ImZpbGw6ICZzdHJva2VfY29sb3I7OyBmaWxsLW9wYWNpdHk6\nIDE7IGZpbGwtcnVsZTogbm9uemVybzsgc3Ryb2tlOiBub25lOyIvPgogICAgICA8cGF0aCBkPSJt\nIDI2Ljc3Nzk3Nyw5LjE3ODc2NzkgYSA0LjQ2ODA5NjQsMy4wNzE4MTYzIDAgMSAxIC04LjkzNjE5\nMiwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45MzYxOTIsMCB6IiBpZD0icGF0aDM2MzMt\nNCIgc3R5bGU9ImZpbGw6ICZzdHJva2VfY29sb3I7OyBmaWxsLW9wYWNpdHk6IDE7IGZpbGwtcnVs\nZTogbm9uemVybzsgc3Ryb2tlOiBub25lOyIvPgogICAgPC9nPgogICAgPGcgaWQ9Imc0MjUwIj4K\nICAgICAgPGxpbmUgeTE9IjM5LjY4NzM4MiIgeTI9IjQuNzYwMDE2NCIgeDE9IjMyLjg0MDEyMiIg\neDI9IjMyLjg0MDEyMiIgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7OyBzdHJva2U6ICZzdHJva2Vf\nY29sb3I7OyBzdHJva2Utd2lkdGg6IDIuNTsgc3Ryb2tlLW1pdGVybGltaXQ6IDEuNjsgc3Ryb2tl\nLWRhc2hhcnJheTogbm9uZTsiIGlkPSJsaW5lMTAtMiIvPgogICAgICA8cGF0aCBkPSJtIDM3LjMw\nODIxMiwyMy41ODAwNDcgYSA0LjQ2ODA5NjQsMy4wNzE4MTYzIDAgMSAxIC04LjkzNjE5MSwwIDQu\nNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45MzYxOTEsMCB6IiBpZD0icGF0aDM2MzMtNDciIHN0\neWxlPSJmaWxsOiAmc3Ryb2tlX2NvbG9yOzsgZmlsbC1vcGFjaXR5OiAxOyBmaWxsLXJ1bGU6IG5v\nbnplcm87IHN0cm9rZTogbm9uZTsiLz4KICAgICAgPHBhdGggZD0ibSAzNy4zMDgyMTIsMjkuNzIz\nNzkyIGEgNC40NjgwOTY0LDMuMDcxODE2MyAwIDEgMSAtOC45MzYxOTEsMCA0LjQ2ODA5NjQsMy4w\nNzE4MTYzIDAgMSAxIDguOTM2MTkxLDAgeiIgaWQ9InBhdGgzNjMzLTctNCIgc3R5bGU9ImZpbGw6\nICZzdHJva2VfY29sb3I7OyBmaWxsLW9wYWNpdHk6IDE7IGZpbGwtcnVsZTogbm9uemVybzsgc3Ry\nb2tlOiBub25lOyIvPgogICAgICA8cGF0aCBkPSJtIDM3LjMwODIxMiwzNS44Njc1MzYgYSA0LjQ2\nODA5NjQsMy4wNzE4MTYzIDAgMSAxIC04LjkzNjE5MSwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAx\nIDEgOC45MzYxOTEsMCB6IiBpZD0icGF0aDM2MzMtNS00IiBzdHlsZT0iZmlsbDogJnN0cm9rZV9j\nb2xvcjs7IGZpbGwtb3BhY2l0eTogMTsgZmlsbC1ydWxlOiBub256ZXJvOyBzdHJva2U6IG5vbmU7\nIi8+CiAgICAgIDxwYXRoIGQ9Im0gMzcuMzA4MjEyLDkuMTc4NzY3OSBhIDQuNDY4MDk2NCwzLjA3\nMTgxNjMgMCAxIDEgLTguOTM2MTkxLDAgNC40NjgwOTY0LDMuMDcxODE2MyAwIDEgMSA4LjkzNjE5\nMSwwIHoiIGlkPSJwYXRoMzYzMy00LTAiIHN0eWxlPSJmaWxsOiAmc3Ryb2tlX2NvbG9yOzsgZmls\nbC1vcGFjaXR5OiAxOyBmaWxsLXJ1bGU6IG5vbnplcm87IHN0cm9rZTogbm9uZTsiLz4KICAgIDwv\nZz4KICAgIDxnIGlkPSJnNDIzNiI+CiAgICAgIDxsaW5lIHkxPSIzOS42ODczODIiIHkyPSI0Ljc2\nMDAxNjQiIHgxPSIxMS43Nzk2NDQiIHgyPSIxMS43Nzk2NDQiIHN0eWxlPSJmaWxsOiZmaWxsX2Nv\nbG9yOzsgc3Ryb2tlOiAmc3Ryb2tlX2NvbG9yOzsgc3Ryb2tlLXdpZHRoOiAyLjU7IHN0cm9rZS1t\naXRlcmxpbWl0OiAxLjY7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IiBpZD0ibGluZTEwLTY4Ii8+\nCiAgICAgIDxwYXRoIGQ9Im0gMTYuMjQ3NzQyLDIzLjU4MDA0NyBhIDQuNDY4MDk2NCwzLjA3MTgx\nNjMgMCAxIDEgLTguOTM2MTg5OCwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45MzYxODk4\nLDAgeiIgaWQ9InBhdGgzNjMzLTIiIHN0eWxlPSJmaWxsOiAmc3Ryb2tlX2NvbG9yOzsgZmlsbC1v\ncGFjaXR5OiAxOyBmaWxsLXJ1bGU6IG5vbnplcm87IHN0cm9rZTogbm9uZTsiLz4KICAgICAgPHBh\ndGggZD0ibSAxNi4yNDc3NDIsMjkuNzIzNzkyIGEgNC40NjgwOTY0LDMuMDcxODE2MyAwIDEgMSAt\nOC45MzYxODk4LDAgNC40NjgwOTY0LDMuMDcxODE2MyAwIDEgMSA4LjkzNjE4OTgsMCB6IiBpZD0i\ncGF0aDM2MzMtNy02IiBzdHlsZT0iZmlsbDogJnN0cm9rZV9jb2xvcjs7IGZpbGwtb3BhY2l0eTog\nMTsgZmlsbC1ydWxlOiBub256ZXJvOyBzdHJva2U6IG5vbmU7Ii8+CiAgICAgIDxwYXRoIGQ9Im0g\nMTYuMjQ3NzQyLDM1Ljg2NzUzNiBhIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgLTguOTM2MTg5\nOCwwIDQuNDY4MDk2NCwzLjA3MTgxNjMgMCAxIDEgOC45MzYxODk4LDAgeiIgaWQ9InBhdGgzNjMz\nLTUtNiIgc3R5bGU9ImZpbGw6ICZzdHJva2VfY29sb3I7OyBmaWxsLW9wYWNpdHk6IDE7IGZpbGwt\ncnVsZTogbm9uemVybzsgc3Ryb2tlOiBub25lOyIvPgogICAgICA8cGF0aCBkPSJtIDE2LjI0Nzc0\nMiw5LjE3ODc2NzkgYSA0LjQ2ODA5NjQsMy4wNzE4MTYzIDAgMSAxIC04LjkzNjE4OTgsMCA0LjQ2\nODA5NjQsMy4wNzE4MTYzIDAgMSAxIDguOTM2MTg5OCwwIHoiIGlkPSJwYXRoMzYzMy00LTUiIHN0\neWxlPSJmaWxsOiAmc3Ryb2tlX2NvbG9yOzsgZmlsbC1vcGFjaXR5OiAxOyBmaWxsLXJ1bGU6IG5v\nbnplcm87IHN0cm9rZTogbm9uZTsiLz4KICAgIDwvZz4KICA8L2c+Cjwvc3ZnPg==\n", 
@@ -36,6 +37,19 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/4e6GXuM.png"
+                ]
+            }, 
+            "version": 57, 
+            "whats_new": {
+                "en-US": "ENHANCEMENT:<br/>* New translations (gn and ibo)"
+            }, 
+            "xo_url": "org.sugarlabs.AbacusActivity_v57.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -102,6 +116,7 @@
         "es": "\u00c1baco", 
         "fa-AF": "ZDrl19  <a href=\"http://pqvkunomzsxf.com/\">pqvkunomzsxf</a>, [url=http://vhvwzucrejqc.com/]vhvwzucrejqc[/url], [link=http://svroeatpxxte.com/]svroeatpxxte[/link], http://bxcscclycebv.com/", 
         "fr": "Abaque", 
+        "gn": "Jepapaha", 
         "hi": "\u0905\u092c\u093e\u0915\u0938", 
         "ht": "BQJVsA  <a href=\"http://zdijvxnlfzxe.com/\">zdijvxnlfzxe</a>, [url=http://hnwwttkquvmo.com/]hnwwttkquvmo[/url], [link=http://vifjzpxgxpkh.com/]vifjzpxgxpkh[/link], http://yotcbwjcvxep.com/", 
         "hus": "Ajix ajumtal\u00e1b", 
@@ -134,13 +149,13 @@
         "zh-CN": "\u7b97\u76d8", 
         "zh-TW": "\u5c0f\u7b97\u76e4"
     }, 
-    "version": 56, 
+    "version": 57, 
     "whats_new": {
-        "en-US": "ENHANCEMENT:<br/>* More speed ups (w/Gonzalo Odiard)<br/>* New translations<br/>BUG FIX:<br/>* Properly restore custom abacus"
+        "en-US": "ENHANCEMENT:<br/>* New translations (gn and ibo)"
     }, 
-    "xo_size": 329173, 
-    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_v56.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1425979368.xo", 
-    "xo_url_latest_timestamp": 1425979368, 
-    "xo_url_timestamp": 1425979368
+    "xo_size": 330072, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_v57.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.AbacusActivity_1429229784.xo", 
+    "xo_url_latest_timestamp": 1429229784, 
+    "xo_url_timestamp": 1429229784
 }
