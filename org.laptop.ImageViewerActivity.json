@@ -6,9 +6,10 @@
         }
     ], 
     "description": {
-        "en-US": "An easy way and fast way to see your images! You can also change the way your image looks with zoom, rotate, size change and so on."
+        "en-US": "An easy way and fast way to see your images! You can also change the way your image looks with zoom, rotate, size change and so on.", 
+        "es": "Una forma f\u00e1cil y r\u00e1pida de ver tus im\u00e1genes! Tambien puedes cambiar la forma en que la iagen se ve, cambiando el tama\u00f1o o rotandola."
     }, 
-    "github_current_tag": "v59", 
+    "github_current_tag": "v61", 
     "github_url": "godiard/imageviewer-activity", 
     "hasOldToolbars": false, 
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3Mv\nU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiBbCiAgPCFFTlRJVFkgZmlsbF9jb2xvciAiI0ZGRkZGRiI+\nCiAgPCFFTlRJVFkgc3Ryb2tlX2NvbG9yICIjMDEwMTAxIj4KXT4KPHN2ZwogICB4bWxuczpkYz0i\naHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3Jl\nYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5\nOS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8y\nMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB2ZXJzaW9u\nPSIxLjEiCiAgIHdpZHRoPSI1MCIKICAgaGVpZ2h0PSI1MCIKICAgaWQ9InN2ZzMxNDQiPgogIDxk\nZWZzCiAgICAgaWQ9ImRlZnMzMTY2IiAvPgogIDxyZWN0IHg9IjMiIHk9IjE0IiB3aWR0aD0iNDQi\nIGhlaWdodD0iMzIiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOyIvPgogIDxnCiAgICAgdHJhbnNm\nb3JtPSJtYXRyaXgoMC45Mjc0OTYzOCwwLDAsMC45Mjc0OTYzOCwtNzkuMDc5ODA5LC0xNjIuMTEy\nODkpIgogICAgIGlkPSJnMzI1NSIgc3R5bGU9ImZpbGw6JnN0cm9rZV9jb2xvcjsiPgogICAgPHBh\ndGgKICAgICAgIGQ9Im0gMTAyLjY2MywyMDUuNjk0IGMgLTIuMDcsLTAuMDM0IC0zLjcxNiwtMS42\nODggLTMuNjg1LC0zLjY5OCAwLjAzMiwtMi4xMDQgMS43MzMsLTMuNzYxIDMuODIxLC0zLjcyNCAy\nLjAyOSwwLjAzNSAzLjY4NywxLjcyMSAzLjY4MSwzLjczOSAtMC4wMDUsMi4wOTkgLTEuNjg1LDMu\nNzIgLTMuODE3LDMuNjgzIHoiCiAgICAgICBpZD0icGF0aDMyMDkiIC8+CiAgICA8cGF0aAogICAg\nICAgZD0iTSAxMzUuOTQ4LDIyNS43MjYgSCA4OC40ODUgdiAtMzYuODM0IGggNDcuNDYyIHYgMzYu\nODM0IHogbSAtNDQuODExLC0yLjY1MSBoIDQyLjE2IHYgLTMxLjUzMyBoIC00Mi4xNiB2IDMxLjUz\nMyB6IgogICAgICAgaWQ9InBhdGgzMjExIiAvPgogICAgPHBhdGgKICAgICAgIGQ9Ik0gMTMxLjI3\nMiwyMjEuMDUxIEggOTMuMTYxIHYgLTI3LjQ4NCBoIDM4LjExMSB2IDI3LjQ4NCB6IE0gOTQuNDYx\nLDIxOS43NSBoIDM1LjUxMSBWIDE5NC44NjcgSCA5NC40NjEgdiAyNC44ODMgeiIKICAgICAgIGlk\nPSJwYXRoMzIxMyIgLz4KICAgIDxjaXJjbGUKICAgICAgIGN4PSIxMTIuMjE3IgogICAgICAgY3k9\nIjE4MC4xMzQ5OSIKICAgICAgIHI9IjIuMTE0MDAwMSIKICAgICAgIGlkPSJjaXJjbGUzMjE1IiAv\nPgogICAgPHBhdGgKICAgICAgIGQ9Im0gMTAxLjMxNSwxOTAuNDM5IGMgLTAuMjU2LDAgLTAuNTEy\nLC0wLjA5OCAtMC43MDcsLTAuMjkzIC0wLjM5MSwtMC4zOTEgLTAuMzkxLC0xLjAyMyAwLC0xLjQx\nNCBsIDYuNjIzLC02LjYyMyBjIDAuMzkxLC0wLjM5MSAxLjAyMywtMC4zOTEgMS40MTQsMCAwLjM5\nMSwwLjM5MSAwLjM5MSwxLjAyMyAwLDEuNDE0IGwgLTYuNjIzLDYuNjIzIGMgLTAuMTk1LDAuMTk1\nIC0wLjQ1MSwwLjI5MyAtMC43MDcsMC4yOTMgeiIKICAgICAgIGlkPSJwYXRoMzIxNyIgLz4KICAg\nIDxwYXRoCiAgICAgICBkPSJtIDEyMi45MTgsMTkwLjQzOSBjIC0wLjI1NiwwIC0wLjUxMiwtMC4w\nOTggLTAuNzA3LC0wLjI5MyBsIC02LjYyNCwtNi42MjMgYyAtMC4zOTEsLTAuMzkgLTAuMzkxLC0x\nLjAyMyAwLC0xLjQxNCAwLjM5MSwtMC4zOTEgMS4wMjMsLTAuMzkxIDEuNDE0LDAgbCA2LjYyNCw2\nLjYyMyBjIDAuMzkxLDAuMzkxIDAuMzkxLDEuMDIzIDAsMS40MTQgLTAuMTk1LDAuMTk1IC0wLjQ1\nMSwwLjI5MyAtMC43MDcsMC4yOTMgeiIKICAgICAgIGlkPSJwYXRoMzIxOSIgLz4KICAgIDxwb2x5\nZ29uCiAgICAgICBwb2ludHM9IjkzLjgxMSwyMjAuNCA5My44MTEsMjEzLjMzNCAxMDkuMTE0LDIx\nNi42ODEgMTMwLjU2NCwyMTYuNjgxIDEzMC4zNDQsMjIwLjQgIgogICAgICAgaWQ9InBvbHlnb24z\nMjIxIiAvPgogICAgPHBvbHlnb24KICAgICAgIHBvaW50cz0iMTIzLjU3MiwyMTIuNjU0IDEyMy41\nNzIsMjE2LjY4MSAxMjEuNjE1LDIxNi42ODEgMTIxLjYxNSwyMTIuNjUyIDExNy43MiwyMTIuNjUy\nIDEyMi40OTksMTk5LjEzNSAxMjcuMzIzLDIxMi42NTQgIgogICAgICAgaWQ9InBvbHlnb24zMjIz\nIiAvPgogICAgPHBvbHlnb24KICAgICAgIHBvaW50cz0iMTEzLjQ4MiwyMTQuNiAxMTMuNDgyLDIx\nNy4zMTkgMTEyLjE2LDIxNy4zMTkgMTEyLjE2LDIxNC41OTkgMTA5LjUzLDIxNC41OTkgMTEyLjc1\nOCwyMDUuNDY5IDExNi4wMTUsMjE0LjYgIgogICAgICAgaWQ9InBvbHlnb24zMjI1Ii8+CiAgPC9n\nPgo8L3N2Zz4K\n", 
@@ -16,6 +17,15 @@
     "isWeb": false, 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 61, 
+            "whats_new": {
+                "en-US": "* Touch gestures implementation<br/>* port to gtk3"
+            }, 
+            "xo_url": "org.laptop.ImageViewerActivity_v61.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": [], 
@@ -79,13 +89,13 @@
         "zh-CN": "\u56fe\u7247\u67e5\u770b\u5668", 
         "zh-TW": "\u700f\u89bd\u5716\u7247"
     }, 
-    "version": 60, 
+    "version": 61, 
     "whats_new": {
-        "en-US": "<br/>* Touch gestures implementation<br/>* port to gtk3"
+        "en-US": "* Touch gestures implementation<br/>* port to gtk3"
     }, 
-    "xo_size": 285112, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_stable_60.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_latest.xo", 
-    "xo_url_latest_timestamp": 1419888907.941581, 
-    "xo_url_timestamp": 1419888907.940892
+    "xo_size": 214804, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_v61.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.ImageViewerActivity_1429229723.xo", 
+    "xo_url_latest_timestamp": 1429229723, 
+    "xo_url_timestamp": 1429229723
 }
