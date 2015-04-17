@@ -37,6 +37,15 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 32, 
+            "whats_new": {
+                "en-US": "* Now one can add more songs to the playlist<br/>* New translations added"
+            }, 
+            "xo_url": "org.laptop.sugar.Jukebox_v32.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
             "screenshots": [], 
             "version": 32, 
             "whats_new": {
@@ -100,11 +109,11 @@
     }, 
     "version": 32, 
     "whats_new": {
-        "en-US": "<br/>* Now one can add more songs to the playlist<br/>* New translations added"
+        "en-US": "* Now one can add more songs to the playlist<br/>* New translations added"
     }, 
-    "xo_size": 294872, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_stable_32.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_latest.xo", 
-    "xo_url_latest_timestamp": 1419888217.533165, 
-    "xo_url_timestamp": 1409654509.276131
+    "xo_size": 223054, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_v32.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.Jukebox_1429229663.xo", 
+    "xo_url_latest_timestamp": 1429229663, 
+    "xo_url_timestamp": 1429229663
 }
