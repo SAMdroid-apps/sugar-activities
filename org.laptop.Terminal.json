@@ -18,6 +18,15 @@
     "releases": [
         {
             "minSugarVersion": "0.96", 
+            "screenshots": {}, 
+            "version": 44, 
+            "whats_new": {
+                "en-US": "*New translations<br/>*Erasing an unusual file OLPC#11218"
+            }, 
+            "xo_url": "org.laptop.Terminal_v44.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
             "screenshots": [], 
             "version": 42, 
             "whats_new": {
@@ -40,7 +49,6 @@
         "de": "Terminal", 
         "dz": "\u0f4a\u0f62\u0f0b\u0f58\u0f72\u0f0b\u0f53\u0f71\u0f63\u0f0d", 
         "el": "\u03a4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc", 
-        "en": "Terminal", 
         "en-GB": "Terminal", 
         "en-US": "Terminal", 
         "es": "Terminal", 
@@ -89,13 +97,13 @@
         "zh-CN": "\u7ec8\u7aef", 
         "zh-TW": "\u7d42\u7aef\u6a5f"
     }, 
-    "version": 42, 
+    "version": 44, 
     "whats_new": {
-        "en-US": "<br/>*New translations<br/>*Erasing an unusual file OLPC#11218"
+        "en-US": "*New translations<br/>*Erasing an unusual file OLPC#11218"
     }, 
-    "xo_size": 224720, 
-    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.Terminal_stable_42.xo", 
-    "xo_url_latest": "https://download.sugarlabs.org/activities2/org.laptop.Terminal_latest.xo", 
-    "xo_url_latest_timestamp": 1419889091.907323, 
-    "xo_url_timestamp": 1410671740.054618
+    "xo_size": 175761, 
+    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.Terminal_v44.xo", 
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.Terminal_1429229698.xo", 
+    "xo_url_latest_timestamp": 1429229698, 
+    "xo_url_timestamp": 1429229698
 }
