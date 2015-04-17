@@ -55,6 +55,17 @@
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
+                "en": []
+            }, 
+            "version": 114, 
+            "whats_new": {
+                "en-US": "* Add footnotes and intra-document links support in EPUB"
+            }, 
+            "xo_url": "org.laptop.sugar.ReadActivity_v114.xo"
+        }, 
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
                 "en": [
                     "http://i.imgur.com/k6eOP5C.png"
                 ]
@@ -146,9 +157,9 @@
     "whats_new": {
         "en-US": "* Add footnotes and intra-document links support in EPUB"
     }, 
-    "xo_size": 779299, 
+    "xo_size": 780049, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_v114.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_1428059029.xo", 
-    "xo_url_latest_timestamp": 1428059029, 
-    "xo_url_timestamp": 1428059029
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_1429229758.xo", 
+    "xo_url_latest_timestamp": 1429229758, 
+    "xo_url_timestamp": 1429229758
 }
