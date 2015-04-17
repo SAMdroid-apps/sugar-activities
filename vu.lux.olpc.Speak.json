@@ -62,6 +62,20 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
+                    "http://i.imgur.com/F8EIQtm.png", 
+                    "http://i.imgur.com/DXjas3A.png"
+                ]
+            }, 
+            "version": 50, 
+            "whats_new": {
+                "en-US": "* New icon for photoface"
+            }, 
+            "xo_url": "vu.lux.olpc.Speak_v50.xo"
+        }, 
+        {
+            "minSugarVersion": "0.86", 
+            "screenshots": {
+                "en": [
                     "http://i.imgur.com/fU6AKbF.png", 
                     "http://i.imgur.com/FqtT7DH.png"
                 ]
@@ -157,9 +171,9 @@
     "whats_new": {
         "en-US": "* New icon for photoface"
     }, 
-    "xo_size": 3287206, 
+    "xo_size": 3287150, 
     "xo_url": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_v50.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_1428059006.xo", 
-    "xo_url_latest_timestamp": 1428059006, 
-    "xo_url_timestamp": 1428059006
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/vu.lux.olpc.Speak_1429229745.xo", 
+    "xo_url_latest_timestamp": 1429229745, 
+    "xo_url_timestamp": 1429229745
 }
