@@ -39,8 +39,29 @@
     "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LXJlYWQiPgoJPHBhdGggZD0i\nTTI3LjkwNCwxMS4wMjNoLTAuMDAyICAgYzAtMC4wMDItMS43MS0yLjA1My05LjM3Ni0yLjUwNEMx\nMC44Niw4LjA3LDYuODQzLDEwLjEyMSw2Ljg0LDEwLjEyMmMtMS44OTgsMC42MTktMy40OTUsMS43\nMzUtMy40OTUsMy40OTR2MjcuNzAyICAgYzAsMi4wMjUsMS4yMzUsMy40OTQsMy40OTUsMy40OTRj\nMC4wMDMsMCw0LjQxLTEuMzUsMTAuMDA0LTEuMzVjNS41ODktMC4wMDEsMTEuMDYxLDIuMjUzLDEx\nLjA2MSwyLjI1MyIgZGlzcGxheT0iaW5saW5lIiBmaWxsPSImZmlsbF9jb2xvcjsiIHN0cm9rZT0i\nJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMy41\nIi8+Cgk8cGF0aCBkPSJNMjcuODk4LDExLjAyMyAgIEwyNy44OTgsMTEuMDIzYzAtMC4wMDIsMS43\nMTUtMi4wNTMsOS4zNzctMi41MDRjNy42NjgtMC40NDksMTEuNjg2LDEuNjAyLDExLjY4OCwxLjYw\nM2MxLjg5NywwLjYxOSwzLjQ5NCwxLjczNSwzLjQ5NCwzLjQ5NCAgIHYyNy43MDJjMCwyLjAyNS0x\nLjIzMywzLjQ5NC0zLjQ5NCwzLjQ5NGMtMC4wMDMsMC00LjQwOS0xLjM1LTEwLjAwNC0xLjM1Yy01\nLjU4OS0wLjAwMS0xMS4wNjIsMi4yNTMtMTEuMDYyLDIuMjUzIiBkaXNwbGF5PSJpbmxpbmUiIGZp\nbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLWxpbmVqb2lu\nPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiLz4KCgkJPGxpbmUgZGlzcGxheT0iaW5saW5lIiBm\naWxsPSJub25lIiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2UtbGluZWNhcD0icm91bmQi\nIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMy41IiB4MT0iMjcuODk4IiB4\nMj0iMjcuOSIgeTE9IjExLjAyMyIgeTI9IjQ1LjcxNyIvPgoJPHBhdGggZD0iICAgTTMyLjU2Niw0\nNC4yNzVjMCwwLTAuMDMxLDIuOTA2LTQuNjY2LDIuOTA2Yy00LjYzMiwwLTQuNjYzLTIuOTA2LTQu\nNjYzLTIuOTA2IiBkaXNwbGF5PSJpbmxpbmUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iJnN0cm9rZV9j\nb2xvcjsiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ry\nb2tlLXdpZHRoPSIzLjUiLz4KPC9nPjwvc3ZnPgoK\n", 
     "isGTK3": true, 
     "isWeb": false, 
+    "mimetypes": [
+        "application/pdf", 
+        "image/vnd.djvu", 
+        "image/x.djvu", 
+        "image/tiff", 
+        "application/epub+zip", 
+        "text/plain", 
+        "application/zip", 
+        "application/x-cbz"
+    ], 
     "minSugarVersion": "0.96", 
     "releases": [
+        {
+            "minSugarVersion": "0.96", 
+            "screenshots": {
+                "en": []
+            }, 
+            "version": 114, 
+            "whats_new": {
+                "en-US": "* Add footnotes and intra-document links support in EPUB"
+            }, 
+            "xo_url": "org.laptop.sugar.ReadActivity_v114.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -157,9 +178,9 @@
     "whats_new": {
         "en-US": "* Add footnotes and intra-document links support in EPUB"
     }, 
-    "xo_size": 780049, 
+    "xo_size": 780228, 
     "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_v114.xo", 
-    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_1429229758.xo", 
-    "xo_url_latest_timestamp": 1429229758, 
-    "xo_url_timestamp": 1429229758
+    "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.sugar.ReadActivity_1429352254.xo", 
+    "xo_url_latest_timestamp": 1429352254, 
+    "xo_url_timestamp": 1429352254
 }
