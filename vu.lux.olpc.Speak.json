@@ -38,7 +38,7 @@
     "github_current_tag": "v50", 
     "github_url": "walterbender/speak", 
     "hasOldToolbars": false, 
-    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIgogImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNz\nL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCIgWwogIDwhRU5USVRZIGZpbGxfY29sb3IgIiNGRkZGRkYi\nPgogIDwhRU5USVRZIHN0cm9rZV9jb2xvciAiIzAwMDAwMCI+Cl0+CjxzdmcgeG1sbnM9Imh0dHA6\nLy93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiPgogIDxlbGxpcHNl\nIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRo\nPSIzLjUiIGN4PSIxMyIgY3k9IjE3IiByeD0iMTAiIHJ5PSIxMCIvPgogIDxlbGxpcHNlIGZpbGw9\nIiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSImc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUi\nIGN4PSIzNyIgY3k9IjE3IiByeD0iMTAiIHJ5PSIxMCIvPgogIDxjaXJjbGUgZmlsbD0iJmZpbGxf\nY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBzdHJva2Utd2lkdGg9IjMuNSIgY3g9IjE3\nIiBjeT0iMTUiIHI9IjIiLz4KICA8Y2lyY2xlIGZpbGw9IiZmaWxsX2NvbG9yOyIgc3Ryb2tlPSIm\nc3Ryb2tlX2NvbG9yOyIgc3Ryb2tlLXdpZHRoPSIzLjUiIGN4PSI0MSIgY3k9IjE1IiByPSIyIi8+\nCiAgPGVsbGlwc2UgZmlsbD0iJmZpbGxfY29sb3I7IiBzdHJva2U9IiZzdHJva2VfY29sb3I7IiBz\ndHJva2Utd2lkdGg9IjMuNSIgY3g9IjI2IiBjeT0iMzkiIHJ4PSIyMCIgcnk9IjQiLz4KPC9zdmc+\nCgo=\n", 
+    "icon": "<svg viewBox='0 0 50 50' xmlns='http://www.w3.org/2000/svg'><defs/><g stroke-width='3.5' fill='#fff' stroke='#000'><ellipse cy='17' rx='10' ry='10' cx='13'/><ellipse cy='17' rx='10' ry='10' cx='37'/><circle cy='15' r='2' cx='17'/><circle cy='15' r='2' cx='41'/><ellipse cy='39' rx='20' ry='4' cx='26'/></g></svg>", 
     "iconHash": "24ffd1c6bb79db95595e1bd8d10fb580", 
     "isGTK3": false, 
     "isWeb": false, 

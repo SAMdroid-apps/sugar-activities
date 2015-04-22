@@ -26,7 +26,7 @@
     }, 
     "github_url": "walterbender/ruler", 
     "hasOldToolbars": false, 
-    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJM\nSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIgogImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNz\nL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCIgWwogIDwhRU5USVRZIGZpbGxfY29sb3IgIiNBQUFBQUEi\nPgogIDwhRU5USVRZIHN0cm9rZV9jb2xvciAiIzAwMDAwMCI+Cl0+CjxzdmcgeG1sbnM9Imh0dHA6\nLy93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNDUiIGhlaWdodD0iNDUiPgogIDxyZWN0IHg9\nIjEzIiB5PSIzIiB3aWR0aD0iMjAiIGhlaWdodD0iNDAiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9y\nOztzdHJva2U6JnN0cm9rZV9jb2xvcjs7c3Ryb2tlLXdpZHRoOjMuMCIvPgogIDxsaW5lIHkxPSIx\nMyIgeTI9IjEzIiB4MT0iMjUiIHgyPSIzMyIgc3R5bGU9ImZpbGw6JmZpbGxfY29sb3I7O3N0cm9r\nZTomc3Ryb2tlX2NvbG9yOztzdHJva2Utd2lkdGg6My4wIi8+CiAgPGxpbmUgeTE9IjIzIiB5Mj0i\nMjMiIHgxPSIyNSIgeDI9IjMzIiBzdHlsZT0iZmlsbDomZmlsbF9jb2xvcjs7c3Ryb2tlOiZzdHJv\na2VfY29sb3I7O3N0cm9rZS13aWR0aDozLjAiLz4KICA8bGluZSB5MT0iMzMiIHkyPSIzMyIgeDE9\nIjI1IiB4Mj0iMzMiIHN0eWxlPSJmaWxsOiZmaWxsX2NvbG9yOztzdHJva2U6JnN0cm9rZV9jb2xv\ncjs7c3Ryb2tlLXdpZHRoOjMuMCIvPgo8L3N2Zz4K\n", 
+    "icon": "<svg viewBox='0 0 45 45' xmlns='http://www.w3.org/2000/svg'><defs/><g stroke-width='3' fill='#fff' stroke='#000'><path d='m13 3h20v40h-20z'/><path d='m25 13h8'/><path d='m25 23h8'/><path d='m25 33h8'/></g></svg>", 
     "isGTK3": true, 
     "isWeb": false, 
     "minSugarVersion": "0.96", 

@@ -11,7 +11,7 @@
     "github_current_tag": "v43", 
     "github_url": "godiard/terminal-activity", 
     "hasOldToolbars": false, 
-    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQg\nU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3Zn\nMTEuZHRkJyBbCgk8IUVOVElUWSBzdHJva2VfY29sb3IgIiMwMTAxMDEiPgoJPCFFTlRJVFkgZmls\nbF9jb2xvciAiI0ZGRkZGRiI+Cl0+PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1NSA1\nNSIgaGVpZ2h0PSI1NXB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1NSA1NSIgd2lkdGg9\nIjU1cHgiIHg9IjBweCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu\nb3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIg\neT0iMHB4Ij48ZyBkaXNwbGF5PSJibG9jayIgaWQ9ImFjdGl2aXR5LXRlcm1pbmFsIj4KCQoJCTxy\nZWN0IGZpbGw9IiZmaWxsX2NvbG9yOyIgaGVpZ2h0PSIzMi40NDIiIHN0cm9rZT0iJnN0cm9rZV9j\nb2xvcjsiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzLjUiIHdpZHRoPSI0\nMy40NTciIHg9IjUuNjQ2IiB5PSI5LjQwNCIvPgoJPGc+CiAgICAgICAgPHBhdGggZD0iTTExLDE2\nIGw3LDUgbC03LDUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZS13\naWR0aD0iMi4yNSIvPgoJCTxwYXRoIGQ9Ik0yNy42NDYsMjcuODEzdjEuMzkyaC03LjUwMXYtMS4z\nOTJIMjcuNjQ2eiIgZmlsbD0iJnN0cm9rZV9jb2xvcjsiIHN0cm9rZT0iJnN0cm9rZV9jb2xvcjsi\nIHN0cm9rZS13aWR0aD0iMC41Ii8+Cgk8L2c+CjwvZz48L3N2Zz4=\n", 
+    "icon": "<svg enable-background='new 0 0 55 55' viewBox='0 0 55 55' xmlns='http://www.w3.org/2000/svg'><defs/><g display='block' stroke='#000'><path stroke-width='3.5' d='m5.646 9.404h43.46v32.442h-43.46z' fill='#fff'/><path d='m11 16l7 5-7 5' stroke-width='2.25' fill='none'/><path d='m27.646 27.813v1.392h-7.501v-1.392z' stroke-width='.5'/></g></svg>", 
     "isGTK3": true, 
     "isWeb": false, 
     "minSugarVersion": "0.96", 
