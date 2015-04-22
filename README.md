@@ -52,4 +52,4 @@ See an example of adding tags & screenshots to an activity in [the Typing Turtle
 
 # See it live
 
-First do a push, and after one of the bots has compiled your activity, go to http://aslo.cf!
+First do a push, and after one of the bots has compiled your activity, go to https://activities-2.sugarlabs.org/!
