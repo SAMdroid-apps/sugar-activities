@@ -31,6 +31,14 @@ The webhook address is:
 
 Use the webhook for `only push events`. That is the default option.
 
+# Manual Release
+
+If using a GitHub webhook does not suit your workflow, you can choose when the bots build your activity.
+
+1.  Push the changes you want the bots to include to your github repo
+2.  Send a http request to `https://aslo-bot-master.sugarlabs.org/hook/GITHUB_NAME/GITHUB_REPO` (replacing the name and repo values).  You can do this in your browser, using `http` or `curl`.
+3.  Success!
+
 # Getting ready for the bots
 
 * Make sure you have a setup.py
