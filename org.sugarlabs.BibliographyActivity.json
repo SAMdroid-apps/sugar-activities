@@ -9,16 +9,37 @@
         "documents", 
         "teacher"
     ], 
+    "clone_homepage": "https://github.com/samdroid-apps/bibliography-activity", 
     "description": {
         "en-US": "Need a bibliography?  Bibliography Activity can help you manage and create a Harvard style bibliography!"
     }, 
-    "github_url": "SAMdroid-apps/bibliography-activity", 
+    "github_url": "amdroid-apps/bibliography-activity", 
     "hasOldToolbars": false, 
-    "icon": "<svg enable-background='new 0 0 55 55' viewBox='0 0 55 55' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><defs><path d='m27.376 7.598v39.802' stroke-width='3.5' fill='#fff' stroke='#000' id='a'/></defs><g display='inline' transform='matrix(.5 0 0 .5.139 25.424)'><g stroke-width='3.5' fill='#fff' stroke='#000'><circle cy='27.5' r='19.903' cx='27.375'/><path d='m27.376 7.598c0 0-11.205 8.394-11.205 19.976 0 11.583 11.205 19.829 11.205 19.829'/><path d='m27.376 7.598c0 0 11.07 9.141 11.07 19.976 0 10.839-11.07 19.829-11.07 19.829'/></g><use xlink:href='#a'/><use xlink:href='#a'/><use xlink:href='#a'/><path stroke-width='3.5' d='m7.472 27.5h39.808' fill='#fff' stroke='#000'/></g><g stroke-width='3.5' display='block' stroke='#000' transform='matrix(.5 0 0 .5 25.06 24.668)'><g fill='#fff'><path d='m36.519 37.13c0 .008-.031.047-.034.049-.055.07-.131.113-.196.162-.012.016-.012.035-.022.043l-7.826 5.04c-.096.064-.218.053-.307-.02-.087-.072-.115-.191-.069-.295l3.475-8.266 2.088-2.717 10.192-13.495v-11.537h-20.944l-11.944 11.939v30.887h32.887v-21.11l-5.469 7.05z'/><path d='m43.818 17.626l-10.192 13.495-2.088 2.717-3.475 8.266c-.046.104-.018.223.069.295.089.072.211.084.307.02l7.826-5.04c.011-.008.011-.027.022-.043.065-.049.142-.092.196-.162.003-.002.034-.041.034-.049l1.831-2.271 5.469-7.05 8.01-10.329c.022-.023.149-.203.149-.203.096-.161.148-.345.148-.556 0-.061 0-.118-.012-.176-.087-.763-.715-1.682-1.639-2.413-.923-.728-1.969-1.123-2.728-1.034-.326.042-.789.375-.789.375z'/></g><path d='m10.932 18.03h11.944v-11.942' fill='none'/></g><path d='m3.01 8.499h22v16h-22z'/><g transform='matrix(.46375 0 0 .46375-38.03-79.56)'><path d='m102.66 205.69c-2.07-.034-3.716-1.688-3.685-3.698.032-2.104 1.733-3.761 3.821-3.724 2.029.035 3.687 1.721 3.681 3.739-.005 2.099-1.685 3.72-3.817 3.683' fill='#fff'/><path d='m135.95 225.73h-47.46v-36.834h47.46v36.834zm-44.811-2.651h42.16v-31.533h-42.16z'/><path d='m131.27 221.05h-38.11v-27.484h38.11zm-36.811-1.301h35.511v-24.883h-35.511z'/><circle cy='180.13' r='2.114' cx='112.22'/><path d='m101.31 190.44c-.256 0-.512-.098-.707-.293-.391-.391-.391-1.023 0-1.414l6.623-6.623c.391-.391 1.023-.391 1.414 0 .391.391.391 1.023 0 1.414l-6.623 6.623c-.195.195-.451.293-.707.293'/><path d='m122.92 190.44c-.256 0-.512-.098-.707-.293l-6.624-6.623c-.391-.39-.391-1.023 0-1.414.391-.391 1.023-.391 1.414 0l6.624 6.623c.391.391.391 1.023 0 1.414-.195.195-.451.293-.707.293'/><g fill='#fff'><path d='m109.11 216.68h21.45l-.22 3.72h-36.53v-7.07z'/><path d='m122.5 199.13l4.82 13.52h-3.75v4.03h-1.96v-4.03h-3.89z'/><path d='m112.76 205.47l3.26 9.13h-2.54v2.72h-1.32v-2.72h-2.63z'/></g></g><g stroke-width='3.5' display='inline' stroke='#000' stroke-linejoin='round' transform='matrix(.5 0 0 .5 24.897.648)'><g fill='#fff'><path d='m27.904 11.02h-.002c0-.002-1.71-2.053-9.376-2.504-7.666-.449-11.683 1.602-11.686 1.603-1.898.619-3.495 1.735-3.495 3.494v27.702c0 2.025 1.235 3.494 3.495 3.494.003 0 4.41-1.35 10-1.35 5.589-.001 11.06 2.253 11.06 2.253'/><path d='m27.898 11.02c0-.002 1.715-2.053 9.377-2.504 7.668-.449 11.686 1.602 11.688 1.603 1.897.619 3.494 1.735 3.494 3.494v27.702c0 2.025-1.233 3.494-3.494 3.494-.003 0-4.409-1.35-10-1.35-5.589-.001-11.06 2.253-11.06 2.253'/></g><g fill='none' stroke-linecap='round'><path d='m27.898 11.02l.002 34.697'/><path d='m32.566 44.27c0 0-.031 2.906-4.666 2.906-4.632 0-4.663-2.906-4.663-2.906'/></g></g></svg>", 
+    "has_old_toolbars": false, 
+    "icon": "<?xml version='1.0' encoding='UTF-8' standalone='no'?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [\n\t<!ENTITY stroke_color '#000000'>\n\t<!ENTITY fill_color '#FFFFFF'>\n]><svg enable-background='new 0 0 55 55' viewBox='0 0 55 55' height='55' width='55' version='1.1' xmlns='http://www.w3.org/2000/svg'>\n <metadata id='metadata3087'/>\n <g display='block' id='activity-browse' transform='matrix(0.5 0 0 0.5 0.139 25.424)'>\n  <circle cy='27.5' stroke-width='3.5' r='19.903' display='inline' fill='&fill_color;' stroke='&stroke_color;' id='circle3067' cx='27.375'/>\n  <g display='inline' id='g3069'>\n   <path stroke-width='3.5' d='m 27.376,7.598 c 0,0 -11.205,8.394 -11.205,19.976 0,11.583 11.205,19.829 11.205,19.829' fill='&fill_color;' stroke='&stroke_color;' id='path3071'/>\n   <path stroke-width='3.5' d='m 27.376,7.598 c 0,0 11.066,9.141 11.066,19.976 0,10.839 -11.066,19.829 -11.066,19.829' fill='&fill_color;' stroke='&stroke_color;' id='path3073'/>\n   <line stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.4' fill='&fill_color;' stroke='&stroke_color;' id='line3075'/>\n   <line stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.4' fill='&fill_color;' stroke='&stroke_color;' id='line3077'/>\n   <line stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.4' fill='&fill_color;' stroke='&stroke_color;' id='line3079'/>\n   <line stroke-width='3.5' x1='7.472' x2='47.28' y1='27.5' y2='27.5' fill='&fill_color;' stroke='&stroke_color;' id='line3081'/>\n  </g>\n </g>\n <g display='block' id='activity-write' transform='matrix(0.5 0 0 0.5 25.06 24.668)'>\n  <g display='inline' id='g3193'>\n   <g id='g3195'>\n    <path stroke-width='3.5' d='m 36.519,37.127 c 0,0.008 -0.031,0.047 -0.034,0.049 -0.055,0.07 -0.131,0.113 -0.196,0.162 -0.012,0.016 -0.012,0.035 -0.022,0.043 l -7.826,5.037 c -0.096,0.064 -0.218,0.053 -0.307,-0.02 -0.087,-0.072 -0.115,-0.191 -0.069,-0.295 L 31.54,33.837 33.628,31.12 43.82,17.625 V 6.088 H 22.876 L 10.932,18.027 V 48.914 H 43.819 V 27.802 l -5.469,7.054 -1.831,2.271 z' fill='&fill_color;' stroke='&stroke_color;' id='path3197'/>\n    <path stroke-width='3.5' d='m 43.818,17.626 -10.192,13.495 -2.088,2.717 -3.475,8.266 c -0.046,0.104 -0.018,0.223 0.069,0.295 0.089,0.072 0.211,0.084 0.307,0.02 l 7.826,-5.037 c 0.011,-0.008 0.011,-0.027 0.022,-0.043 0.065,-0.049 0.142,-0.092 0.196,-0.162 0.003,-0.002 0.034,-0.041 0.034,-0.049 l 1.831,-2.271 5.469,-7.054 8.011,-10.329 c 0.022,-0.023 0.149,-0.203 0.149,-0.203 0.096,-0.161 0.148,-0.345 0.148,-0.556 0,-0.061 0,-0.118 -0.012,-0.176 -0.087,-0.763 -0.715,-1.682 -1.639,-2.413 -0.923,-0.728 -1.969,-1.123 -2.728,-1.034 -0.326,0.042 -0.789,0.375 -0.789,0.375 l -3.139,4.159 z' fill='&fill_color;' stroke='&stroke_color;' id='path3199'/>\n   </g>\n   <polyline stroke-width='3.5' fill='&fill_color;' stroke='&stroke_color;' id='polyline3201' points='10.932,18.027 22.876,18.027 22.876,6.088'/>\n  </g>\n </g>\n <rect x='3.01' y='8.499' fill='&stroke_color;' height='16' id='rect3319' width='22'/>\n <g id='g3255' transform='matrix(0.46375 0 0 0.46375 -38.03 -79.56)'>\n  <path d='m 102.663,205.694 c -2.07,-0.034 -3.716,-1.688 -3.685,-3.698 0.032,-2.104 1.733,-3.761 3.821,-3.724 2.029,0.035 3.687,1.721 3.681,3.739 -0.005,2.099 -1.685,3.72 -3.817,3.683 z' fill='&fill_color;' id='path3209'/>\n  <path d='M 135.948,225.726 H 88.485 v -36.834 h 47.462 v 36.834 z m -44.811,-2.651 h 42.16 v -31.533 h -42.16 v 31.533 z' fill='&stroke_color;' id='path3211'/>\n  <path d='M 131.272,221.051 H 93.161 v -27.484 h 38.111 v 27.484 z M 94.461,219.75 h 35.511 V 194.867 H 94.461 v 24.883 z' fill='&stroke_color;' id='path3213'/>\n  <circle cy='180.13' r='2.114' fill='&stroke_color;' id='circle3215' cx='112.22'/>\n  <path d='m 101.315,190.439 c -0.256,0 -0.512,-0.098 -0.707,-0.293 -0.391,-0.391 -0.391,-1.023 0,-1.414 l 6.623,-6.623 c 0.391,-0.391 1.023,-0.391 1.414,0 0.391,0.391 0.391,1.023 0,1.414 l -6.623,6.623 c -0.195,0.195 -0.451,0.293 -0.707,0.293 z' fill='&stroke_color;' id='path3217'/>\n  <path d='m 122.918,190.439 c -0.256,0 -0.512,-0.098 -0.707,-0.293 l -6.624,-6.623 c -0.391,-0.39 -0.391,-1.023 0,-1.414 0.391,-0.391 1.023,-0.391 1.414,0 l 6.624,6.623 c 0.391,0.391 0.391,1.023 0,1.414 -0.195,0.195 -0.451,0.293 -0.707,0.293 z' fill='&stroke_color;' id='path3219'/>\n  <polygon fill='&fill_color;' id='polygon3221' points='109.114,216.681 130.564,216.681 130.344,220.4 93.811,220.4 93.811,213.334 '/>\n  <polygon fill='&fill_color;' id='polygon3223' points='122.499,199.135 127.323,212.654 123.572,212.654 123.572,216.681 121.615,216.681 121.615,212.652 117.72,212.652 '/>\n  <polygon fill='&fill_color;' id='polygon3225' points='112.758,205.469 116.015,214.6 113.482,214.6 113.482,217.319 112.16,217.319 112.16,214.599 109.53,214.599 '/>\n </g>\n <g display='block' id='activity-read' transform='matrix(0.5 0 0 0.5 24.897 0.648)'>\n  <path stroke-width='3.5' d='m 27.904,11.023 h -0.002 c 0,-0.002 -1.71,-2.053 -9.376,-2.504 C 10.86,8.07 6.843,10.121 6.84,10.122 4.942,10.741 3.345,11.857 3.345,13.616 v 27.702 c 0,2.025 1.235,3.494 3.495,3.494 0.003,0 4.41,-1.35 10.004,-1.35 5.589,-0.001 11.061,2.253 11.061,2.253' display='inline' fill='&fill_color;' stroke='&stroke_color;' id='path3486' stroke-linejoin='round'/>\n  <path stroke-width='3.5' d='m 27.898,11.023 0,0 c 0,-0.002 1.715,-2.053 9.377,-2.504 7.668,-0.449 11.686,1.602 11.688,1.603 1.897,0.619 3.494,1.735 3.494,3.494 v 27.702 c 0,2.025 -1.233,3.494 -3.494,3.494 -0.003,0 -4.409,-1.35 -10.004,-1.35 -5.589,-0.001 -11.062,2.253 -11.062,2.253' display='inline' fill='&fill_color;' stroke='&stroke_color;' id='path3488' stroke-linejoin='round'/>\n  <line stroke-width='3.5' x1='27.898' x2='27.9' display='inline' y1='11.02' y2='45.717' fill='&fill_color;' stroke='&stroke_color;' id='line3490' stroke-linecap='round' stroke-linejoin='round'/>\n  <path stroke-width='3.5' d='m 32.566,44.275 c 0,0 -0.031,2.906 -4.666,2.906 -4.632,0 -4.663,-2.906 -4.663,-2.906' display='inline' fill='&fill_color;' stroke='&stroke_color;' id='path3492' stroke-linecap='round' stroke-linejoin='round'/>\n </g>\n</svg>\n", 
     "isGTK3": true, 
     "isWeb": false, 
+    "is_gtk3": true, 
+    "is_web": false, 
+    "mimetypes": [], 
     "minSugarVersion": "0.96", 
+    "min_sugar_version": "0.96", 
     "releases": [
+        {
+            "min_sugar_version": "0.96", 
+            "screenshots": {
+                "en": [
+                    "http://i.imgur.com/e0aYm6B.png", 
+                    "http://i.imgur.com/gHKy3oW.png", 
+                    "http://i.imgur.com/VS5bt6h.png"
+                ]
+            }, 
+            "version": 3, 
+            "whats_new": {
+                "en-US": "* Export as Write document (abiword format)<br/>* Improved scrolling (scrollbars now visible, ScrollingDetector)<br/>* Use bundle launcher to open offer to open exported files<br/>* Use sugar style palettes instaed of GtkMenu palettes<br/>* Icon improvements<br/>* Small visual improvements"
+            }, 
+            "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.BibliographyActivity_v3.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {
@@ -75,8 +96,8 @@
     "screenshots": {
         "en": [
             "http://i.imgur.com/e0aYm6B.png", 
-            "http://i.imgur.com/VS5bt6h.png", 
-            "http://i.imgur.com/gHKy3oW.png"
+            "http://i.imgur.com/gHKy3oW.png", 
+            "http://i.imgur.com/VS5bt6h.png"
         ]
     }, 
     "screenshotsHashes": {
@@ -89,10 +110,13 @@
     "title": {
         "en-US": "Bibliography"
     }, 
-    "version": 2, 
-    "whats_new": {}, 
-    "xo_size": 169496, 
-    "xo_url": "http://download.sugarlabs.org/activities2/org.sugarlabs.BibliographyActivity_v2.xo", 
+    "version": 3, 
+    "whats_new": {
+        "en-US": "* Export as Write document (abiword format)<br/>* Improved scrolling (scrollbars now visible, ScrollingDetector)<br/>* Use bundle launcher to open offer to open exported files<br/>* Use sugar style palettes instaed of GtkMenu palettes<br/>* Icon improvements<br/>* Small visual improvements"
+    }, 
+    "xo_size": 33352, 
+    "xo_timestamp": 1436522813.307771, 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.sugarlabs.BibliographyActivity_v3.xo", 
     "xo_url_latest": "http://download.sugarlabs.org/activities2/org.sugarlabs.BibliographyActivity_1421459181.xo", 
     "xo_url_latest_timestamp": 1421459181, 
     "xo_url_timestamp": 1421459181
