@@ -1,4 +1,5 @@
 {
+    "clone_homepage": "https://github.com/sugarlabs/browse-activity", 
     "description": {
         "ayc": "\u00a1Aka pachana thaqma! Akana maya yatxat\u00e4wi ch'amanchasma, yatiqa\u00f1a u\u00f1j\u00e4winaka u\u00f1ja\u00f1a, yati\u00f1anaka ch'amamncha\u00f1a katuqa\u00f1a, pankanaka jaki\u00f1a, masinakampi jakisi\u00f1a ukata juk'ampinakampi.", 
         "da": "Surf verdenen! Her kan du lave forskning, se undervisningsvideoer, tage kurser online, finde b\u00f8ger, skabe kontakt til venner og mere.", 
@@ -21,14 +22,47 @@
         "zh-CN": "\u5728\u4e92\u8054\u7f51\u4e2d\u51b2\u6d6a\uff01\u5728\u8fd9\u91cc\u4f60\u53ef\u4ee5\u505a\u7814\u7a76\uff0c\u89c2\u770b\u6559\u80b2\u5f71\u7247\uff0c\u5b66\u4e60\u5728\u7ebf\u8bfe\u7a0b\uff0c\u627e\u4e66\uff0c\u8054\u7cfb\u670b\u53cb\u7b49\u7b49\u3002"
     }, 
     "github_current_tag": "v157", 
-    "github_url": "sugarlabs/browse-activity", 
+    "github_url": "arlabs/browse-activity", 
     "hasOldToolbars": false, 
-    "icon": "<svg enable-background='new 0 0 55 55' viewBox='0 0 55 55' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><defs><path d='m27.376 7.598v39.802' stroke-width='3.5' fill='#fff' stroke='#000' id='a'/></defs><g display='inline'><g stroke-width='3.5' fill='#fff' stroke='#000'><circle cy='27.5' r='19.903' cx='27.375'/><path d='m27.376 7.598c0 0-11.205 8.394-11.205 19.976 0 11.583 11.205 19.829 11.205 19.829'/><path d='m27.376 7.598c0 0 11.07 9.141 11.07 19.976 0 10.839-11.07 19.829-11.07 19.829'/></g><use xlink:href='#a'/><use xlink:href='#a'/><use xlink:href='#a'/><path stroke-width='3.5' d='m7.472 27.5h39.808' fill='#fff' stroke='#000'/></g></svg>", 
+    "has_old_toolbars": false, 
+    "icon": "<?xml version='1.0' ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [\n\t<!ENTITY stroke_color '#010101'>\n\t<!ENTITY fill_color '#FFFFFF'>\n]><svg enable-background='new 0 0 55 55' height='55px' version='1.1' viewBox='0 0 55 55' width='55px' x='0px' xml:space='preserve' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' y='0px'><g display='block' id='activity-browse'>\n\t<circle cx='27.375' cy='27.5' display='inline' fill='&fill_color;' r='19.903' stroke='&stroke_color;' stroke-width='3.5'/>\n\t<g display='inline'>\n\t\t<path d='M27.376,7.598c0,0-11.205,8.394-11.205,19.976    c0,11.583,11.205,19.829,11.205,19.829' fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5'/>\n\t\t<path d='M27.376,7.598c0,0,11.066,9.141,11.066,19.976    c0,10.839-11.066,19.829-11.066,19.829' fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5'/>\n\t\t<line fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.402'/>\n\t\t<line fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.402'/>\n\t\t<line fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5' x1='27.376' x2='27.376' y1='7.598' y2='47.402'/>\n\t\t<line fill='&fill_color;' stroke='&stroke_color;' stroke-width='3.5' x1='7.472' x2='47.278' y1='27.5' y2='27.5'/>\n\t</g>\n</g></svg>\n\n", 
     "iconHash": "5a38cbf458d34e474cad08b688b5385f", 
     "isGTK3": true, 
     "isWeb": false, 
+    "is_gtk3": true, 
+    "is_web": false, 
+    "mimetypes": [
+        "image/png", 
+        "image/gif", 
+        "image/jpeg", 
+        "text/html", 
+        "text/uri-list", 
+        "application/xhtml+xml", 
+        "application/rss+xml", 
+        "application/xml", 
+        "text/css", 
+        "application/ogg", 
+        "audio/x-wav", 
+        "audio/ogg", 
+        "video/ogg", 
+        "audio/x-vorbis+ogg", 
+        "audio/x-flac+ogg", 
+        "audio/x-speex+ogg", 
+        "video/x-theora+ogg", 
+        "video/x-ogm+ogg", 
+        "image/svg+xml", 
+        "application/x-shockwave-flash"
+    ], 
     "minSugarVersion": "0.96", 
+    "min_sugar_version": "0.96", 
     "releases": [
+        {
+            "min_sugar_version": "0.96", 
+            "screenshots": {}, 
+            "version": 157.2, 
+            "whats_new": {}, 
+            "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.WebActivity_v157.2.xo"
+        }, 
         {
             "minSugarVersion": "0.96", 
             "screenshots": {}, 
@@ -112,10 +146,11 @@
         "zh-CN": "\u6d4f\u89c8", 
         "zh-TW": "\u700f\u89bd"
     }, 
-    "version": 157, 
+    "version": 157.2, 
     "whats_new": {}, 
-    "xo_size": 577226, 
-    "xo_url": "http://download.sugarlabs.org/activities2/org.laptop.WebActivity_v157.xo", 
+    "xo_size": 577763, 
+    "xo_timestamp": 1436601892.616351, 
+    "xo_url": "https://download.sugarlabs.org/activities2/org.laptop.WebActivity_v157.2.xo", 
     "xo_url_latest": "http://download.sugarlabs.org/activities2/org.laptop.WebActivity_1429229772.xo", 
     "xo_url_latest_timestamp": 1429229772, 
     "xo_url_timestamp": 1429229772
