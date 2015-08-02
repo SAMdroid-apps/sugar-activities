@@ -19,9 +19,9 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/BDMB3XS.png", 
-                    "http://i.imgur.com/HUnE5uR.png", 
-                    "http://i.imgur.com/PTO3sFD.png"
+                    "https://activities-2.sugarlabs.org/images/BDMB3XS.png", 
+                    "https://activities-2.sugarlabs.org/images/HUnE5uR.png", 
+                    "https://activities-2.sugarlabs.org/images/PTO3sFD.png"
                 ]
             }, 
             "version": 10, 
@@ -34,9 +34,9 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/egYzIHc.png", 
-                    "http://i.imgur.com/hoRbsqQ.png", 
-                    "http://i.imgur.com/WS0PFvq.png"
+                    "https://activities-2.sugarlabs.org/images/egYzIHc.png", 
+                    "https://activities-2.sugarlabs.org/images/hoRbsqQ.png", 
+                    "https://activities-2.sugarlabs.org/images/WS0PFvq.png"
                 ]
             }, 
             "version": 10, 
@@ -48,16 +48,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/BDMB3XS.png", 
-            "http://i.imgur.com/HUnE5uR.png", 
-            "http://i.imgur.com/PTO3sFD.png"
+            "https://activities-2.sugarlabs.org/images/BDMB3XS.png", 
+            "https://activities-2.sugarlabs.org/images/HUnE5uR.png", 
+            "https://activities-2.sugarlabs.org/images/PTO3sFD.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "90e8f4e6ef93ed319e90f71f40694ec3": "http://i.imgur.com/HUnE5uR.png", 
-            "b89ec1a6b69c30a4123f3ac8a5b1a881": "http://i.imgur.com/PTO3sFD.png", 
-            "cde0c21b750323d93df0203fba0e3240": "http://i.imgur.com/BDMB3XS.png"
+            "90e8f4e6ef93ed319e90f71f40694ec3": "https://activities-2.sugarlabs.org/images/HUnE5uR.png", 
+            "b89ec1a6b69c30a4123f3ac8a5b1a881": "https://activities-2.sugarlabs.org/images/PTO3sFD.png", 
+            "cde0c21b750323d93df0203fba0e3240": "https://activities-2.sugarlabs.org/images/BDMB3XS.png"
         }
     }, 
     "title": {

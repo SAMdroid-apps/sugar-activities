@@ -44,7 +44,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/zuevyKp.png"
+                    "https://activities-2.sugarlabs.org/images/zuevyKp.png"
                 ]
             }, 
             "version": 64, 
@@ -83,12 +83,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/zuevyKp.png"
+            "https://activities-2.sugarlabs.org/images/zuevyKp.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "65bd5a6ca5f6ee7d8a232fa9eb7bf174": "http://i.imgur.com/zuevyKp.png"
+            "65bd5a6ca5f6ee7d8a232fa9eb7bf174": "https://activities-2.sugarlabs.org/images/zuevyKp.png"
         }
     }, 
     "socialhelp_category": "paint", 

@@ -41,7 +41,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/5Gx5B3N.png"
+                    "https://activities-2.sugarlabs.org/images/5Gx5B3N.png"
                 ]
             }, 
             "version": 46, 
@@ -54,7 +54,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/aZyrMu2.png"
+                    "https://activities-2.sugarlabs.org/images/aZyrMu2.png"
                 ]
             }, 
             "version": 46, 
@@ -66,12 +66,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/5Gx5B3N.png"
+            "https://activities-2.sugarlabs.org/images/5Gx5B3N.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "7f26e23c4aa4ac716646c779a27425ee": "http://i.imgur.com/5Gx5B3N.png"
+            "7f26e23c4aa4ac716646c779a27425ee": "https://activities-2.sugarlabs.org/images/5Gx5B3N.png"
         }
     }, 
     "title": {

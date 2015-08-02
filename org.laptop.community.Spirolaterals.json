@@ -25,8 +25,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/x9DdVJe.png", 
-                    "http://i.imgur.com/Tr5r8oX.png"
+                    "https://activities-2.sugarlabs.org/images/x9DdVJe.png", 
+                    "https://activities-2.sugarlabs.org/images/Tr5r8oX.png"
                 ]
             }, 
             "version": 24.3, 
@@ -39,8 +39,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/EUpeFJ6.png", 
-                    "http://i.imgur.com/yx6XJIj.png"
+                    "https://activities-2.sugarlabs.org/images/EUpeFJ6.png", 
+                    "https://activities-2.sugarlabs.org/images/yx6XJIj.png"
                 ]
             }, 
             "version": 24.3, 
@@ -53,8 +53,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/FNOvWYK.png", 
-                    "http://i.imgur.com/JVPyVRN.png"
+                    "https://activities-2.sugarlabs.org/images/FNOvWYK.png", 
+                    "https://activities-2.sugarlabs.org/images/JVPyVRN.png"
                 ]
             }, 
             "version": 24.3, 
@@ -67,8 +67,8 @@
             "minSugarVersion": "0.86", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/AxnQLNM.png", 
-                    "http://i.imgur.com/TTeWHnP.png"
+                    "https://activities-2.sugarlabs.org/images/AxnQLNM.png", 
+                    "https://activities-2.sugarlabs.org/images/TTeWHnP.png"
                 ]
             }, 
             "version": 24.3, 
@@ -80,14 +80,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/x9DdVJe.png", 
-            "http://i.imgur.com/Tr5r8oX.png"
+            "https://activities-2.sugarlabs.org/images/x9DdVJe.png", 
+            "https://activities-2.sugarlabs.org/images/Tr5r8oX.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "6a32a5081065d0cfef00466f3a0973f7": "http://i.imgur.com/Tr5r8oX.png", 
-            "fefd9e87fd85b768b9890fd5af42e059": "http://i.imgur.com/x9DdVJe.png"
+            "6a32a5081065d0cfef00466f3a0973f7": "https://activities-2.sugarlabs.org/images/Tr5r8oX.png", 
+            "fefd9e87fd85b768b9890fd5af42e059": "https://activities-2.sugarlabs.org/images/x9DdVJe.png"
         }
     }, 
     "socialhelp_category": "spirolaterals", 

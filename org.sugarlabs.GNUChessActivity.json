@@ -33,7 +33,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/YqJWSf5.png"
+                    "https://activities-2.sugarlabs.org/images/YqJWSf5.png"
                 ]
             }, 
             "version": 15, 
@@ -46,7 +46,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/DDIDH7w.png"
+                    "https://activities-2.sugarlabs.org/images/DDIDH7w.png"
                 ]
             }, 
             "version": 15, 
@@ -67,12 +67,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/YqJWSf5.png"
+            "https://activities-2.sugarlabs.org/images/YqJWSf5.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "7e18b6b98c31dd84c5ac1aed199290d5": "http://i.imgur.com/YqJWSf5.png"
+            "7e18b6b98c31dd84c5ac1aed199290d5": "https://activities-2.sugarlabs.org/images/YqJWSf5.png"
         }
     }, 
     "socialhelp_category": "simplegnuchess", 

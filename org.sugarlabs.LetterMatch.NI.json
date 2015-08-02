@@ -22,8 +22,8 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/hUCdSo0.png", 
-                    "http://i.imgur.com/T2e4Bwn.png"
+                    "https://activities-2.sugarlabs.org/images/hUCdSo0.png", 
+                    "https://activities-2.sugarlabs.org/images/T2e4Bwn.png"
                 ]
             }, 
             "version": 8, 
@@ -36,8 +36,8 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/ZgzClX7.png", 
-                    "http://i.imgur.com/eFjjqWZ.png"
+                    "https://activities-2.sugarlabs.org/images/ZgzClX7.png", 
+                    "https://activities-2.sugarlabs.org/images/eFjjqWZ.png"
                 ]
             }, 
             "version": 8, 
@@ -50,8 +50,8 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/6rta3vH.png", 
-                    "http://i.imgur.com/7toF4De.png"
+                    "https://activities-2.sugarlabs.org/images/6rta3vH.png", 
+                    "https://activities-2.sugarlabs.org/images/7toF4De.png"
                 ]
             }, 
             "version": 8, 
@@ -63,14 +63,14 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/hUCdSo0.png", 
-            "http://i.imgur.com/T2e4Bwn.png"
+            "https://activities-2.sugarlabs.org/images/hUCdSo0.png", 
+            "https://activities-2.sugarlabs.org/images/T2e4Bwn.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "93cdd746c7adf42932a39004c8543737": "http://i.imgur.com/T2e4Bwn.png", 
-            "b97a1a7ee970102a878502e69dc16ced": "http://i.imgur.com/hUCdSo0.png"
+            "93cdd746c7adf42932a39004c8543737": "https://activities-2.sugarlabs.org/images/T2e4Bwn.png", 
+            "b97a1a7ee970102a878502e69dc16ced": "https://activities-2.sugarlabs.org/images/hUCdSo0.png"
         }
     }, 
     "title": {

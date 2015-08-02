@@ -26,9 +26,9 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/989LBFH.png", 
-                    "http://i.imgur.com/gIWPGgW.png", 
-                    "http://i.imgur.com/zuTQeos.png"
+                    "https://activities-2.sugarlabs.org/images/989LBFH.png", 
+                    "https://activities-2.sugarlabs.org/images/gIWPGgW.png", 
+                    "https://activities-2.sugarlabs.org/images/zuTQeos.png"
                 ]
             }, 
             "version": 23, 
@@ -41,9 +41,9 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/y7QAfRv.png", 
-                    "http://i.imgur.com/kRS0zzk.png", 
-                    "http://i.imgur.com/YImOsoQ.png"
+                    "https://activities-2.sugarlabs.org/images/y7QAfRv.png", 
+                    "https://activities-2.sugarlabs.org/images/kRS0zzk.png", 
+                    "https://activities-2.sugarlabs.org/images/YImOsoQ.png"
                 ]
             }, 
             "version": 23, 
@@ -56,9 +56,9 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/MfnYMCS.png", 
-                    "http://i.imgur.com/oLvppoG.png", 
-                    "http://i.imgur.com/A7guxBC.png"
+                    "https://activities-2.sugarlabs.org/images/MfnYMCS.png", 
+                    "https://activities-2.sugarlabs.org/images/oLvppoG.png", 
+                    "https://activities-2.sugarlabs.org/images/A7guxBC.png"
                 ]
             }, 
             "version": 22, 
@@ -70,16 +70,16 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/989LBFH.png", 
-            "http://i.imgur.com/gIWPGgW.png", 
-            "http://i.imgur.com/zuTQeos.png"
+            "https://activities-2.sugarlabs.org/images/989LBFH.png", 
+            "https://activities-2.sugarlabs.org/images/gIWPGgW.png", 
+            "https://activities-2.sugarlabs.org/images/zuTQeos.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "cad85eea8788992cf4eb4ea0e0f3df8b": "http://i.imgur.com/zuTQeos.png", 
-            "ef72504a23f74fb2ad1007e6a176ddab": "http://i.imgur.com/gIWPGgW.png", 
-            "f98605fef156f40bb9038bd51e3f7f39": "http://i.imgur.com/989LBFH.png"
+            "cad85eea8788992cf4eb4ea0e0f3df8b": "https://activities-2.sugarlabs.org/images/zuTQeos.png", 
+            "ef72504a23f74fb2ad1007e6a176ddab": "https://activities-2.sugarlabs.org/images/gIWPGgW.png", 
+            "f98605fef156f40bb9038bd51e3f7f39": "https://activities-2.sugarlabs.org/images/989LBFH.png"
         }
     }, 
     "socialhelp_category": "fractionbounce", 

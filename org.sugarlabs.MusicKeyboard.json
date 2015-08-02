@@ -23,7 +23,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/TIK0iC5.png"
+                    "https://activities-2.sugarlabs.org/images/TIK0iC5.png"
                 ]
             }, 
             "version": 8.8, 
@@ -34,7 +34,7 @@
             "minSugarVersion": "0.96", 
             "screenshots": {
                 "en": [
-                    "http://i.imgur.com/BbvZ72T.png"
+                    "https://activities-2.sugarlabs.org/images/BbvZ72T.png"
                 ]
             }, 
             "version": 8.8, 
@@ -44,12 +44,12 @@
     ], 
     "screenshots": {
         "en": [
-            "http://i.imgur.com/TIK0iC5.png"
+            "https://activities-2.sugarlabs.org/images/TIK0iC5.png"
         ]
     }, 
     "screenshotsHashes": {
         "en": {
-            "104910eed615ee8af95c268a37afa737": "http://i.imgur.com/TIK0iC5.png"
+            "104910eed615ee8af95c268a37afa737": "https://activities-2.sugarlabs.org/images/TIK0iC5.png"
         }
     }, 
     "socialhelp_category": "music-keyboard", 
